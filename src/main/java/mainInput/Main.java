@@ -18,10 +18,10 @@ public class Main {
 
         mainGerritInput.elasticMapping( inputDataGerit.mapping );
         mainGerritInput.elasticSend( inputDataGerit.dataLocation, inputDataGerit.docName );
-        mainGerritInput.elasticRequestData(  "testingEK_4"  );
+        mainGerritInput.elasticRequestData(  "testingEKgerrit_4"  );
         mainGerritInput.elasticQuery( SearchQuery.someGerritQuery() );
 
-        mainGerritInput.elasticDeleteData( inputDataGerit.deleteControl, inputDataGerit.docName );
+        mainGerritInput.elasticDeleteData( inputDataGerit.deleteControl, "testingEKgerrit_4" );
 
         watcherGerrit.report();
 
@@ -33,7 +33,7 @@ public class Main {
 
         mainRandomInput.elasticMapping( inputRandomData.mapping );
         mainRandomInput.elasticSend( inputRandomData.dataLocation, inputRandomData.docName );
-        mainRandomInput.elasticRequestData(  "testingEKrandom"  );
+        mainRandomInput.elasticRequestData(  "testingEKrandom_4"  );
         mainRandomInput.elasticQuery( SearchQuery.someRandomQuery() );
 
         mainRandomInput.elasticDeleteData( inputRandomData.deleteControl, inputRandomData.docName );

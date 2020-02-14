@@ -1,6 +1,14 @@
 {
-  "found": false,
+  "_seq_no": 4,
+  "found": true,
   "_index": "random_index_java",
   "_type": "_doc",
-  "_id": "testingEKrandom"
+  "_source": {
+    "name": "Sara",
+    "age": 40,
+    "email": "Sara@mail.com"
+  },
+  "_id": "testingEKrandom_4",
+  "_version": 1,
+  "_primary_term": 1
 }
