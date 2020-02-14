@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bd131c6-e752-475a-9989-b2d18d9e5d98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XIg1tFL6nXvzwXamm0hZ5d8Fc3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/dataFiles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainInput">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="mainInput.Main" />
+      <module name="GradleJavaElasticApi.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="connector.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradleJavaElasticApi [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GradleJavaElasticApi [build]" />
+        <item itemvalue="Application.MainInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bd131c6-e752-475a-9989-b2d18d9e5d98" name="Default Changelist" comment="" />
+      <created>1580738810717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580738810717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2338" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580740632351">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2338" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580740632351" />
+    <state x="1920" y="362" width="600" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580979387433">
+      <screen x="67" y="27" width="3773" height="1053" />
+    </state>
+    <state x="2575" y="344" width="600" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580895263087" />
+    <state x="1920" y="362" key="#com.intellij.fileTypes.FileTypeChooser/67.27.3773.1053@67.27.3773.1053" timestamp="1580979387433" />
+    <state x="215" y="154" width="945" height="715" key="#xdebugger.evaluate" timestamp="1581417529121">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="215" y="154" width="945" height="715" key="#xdebugger.evaluate/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581417529121" />
+    <state x="2663" y="297" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581513082442">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="297" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581513082442" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1581677424255">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581677424255" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/67.27.3773.1053@67.27.3773.1053" timestamp="1581606531829" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1581677424255">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581677424255" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center/67.27.3773.1053@67.27.3773.1053" timestamp="1581606531828" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1581677424255">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581677424255" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left/67.27.3773.1053@67.27.3773.1053" timestamp="1581606531827" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1581677424255">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581677424255" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right/67.27.3773.1053@67.27.3773.1053" timestamp="1581606531828" />
+    <state width="1874" height="205" key="GridCell.Tab.1.bottom" timestamp="1581677064565">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="205" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581677064565" />
+    <state width="1874" height="205" key="GridCell.Tab.1.bottom/67.27.3773.1053@67.27.3773.1053" timestamp="1581062339259" />
+    <state width="1874" height="205" key="GridCell.Tab.1.center" timestamp="1581677064565">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="205" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581677064565" />
+    <state width="1874" height="205" key="GridCell.Tab.1.center/67.27.3773.1053@67.27.3773.1053" timestamp="1581062339258" />
+    <state width="1874" height="205" key="GridCell.Tab.1.left" timestamp="1581677064565">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="205" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581677064565" />
+    <state width="1874" height="205" key="GridCell.Tab.1.left/67.27.3773.1053@67.27.3773.1053" timestamp="1581062339258" />
+    <state width="1874" height="205" key="GridCell.Tab.1.right" timestamp="1581677064565">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="205" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581677064565" />
+    <state width="1874" height="205" key="GridCell.Tab.1.right/67.27.3773.1053@67.27.3773.1053" timestamp="1581062339259" />
+    <state x="2369" y="174" width="1024" height="845" key="SettingsEditor" timestamp="1580740654430">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="174" width="1024" height="845" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580740654430" />
+    <state width="960" height="541" key="XDebugger.FullValuePopup" timestamp="1580740119151">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="960" height="541" key="XDebugger.FullValuePopup/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580740119151" />
+    <state x="2536" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1581673024642">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2536" y="366" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581673024642" />
+    <state x="662" y="384" key="com.intellij.ide.util.TipDialog/67.27.3773.1053@67.27.3773.1053" timestamp="1581600597097" />
+    <state x="67" y="27" width="1401" height="1038" maximized="true" key="dock-window-1" timestamp="1581673578463">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="27" width="1401" height="1038" maximized="true" key="dock-window-1/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581673578463" />
+    <state x="78" y="27" width="1398" height="1038" key="dock-window-1/67.27.1853.1053@67.27.1853.1053" timestamp="1581600525603" />
+    <state x="78" y="27" width="1398" height="1038" maximized="true" key="dock-window-1/67.27.3773.1053@67.27.3773.1053" timestamp="1581605963345" />
+    <state x="2525" y="135" width="710" height="807" key="find.popup" timestamp="1581513208868">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2525" y="135" width="710" height="807" key="find.popup/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581513208868" />
+    <state x="2189" y="131" width="1372" height="815" key="new project wizard" timestamp="1580738913315">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2189" y="131" width="1372" height="815" key="new project wizard/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1580738913315" />
+    <state x="2544" y="246" key="run.anything.popup" timestamp="1581065899425">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="246" key="run.anything.popup/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1581065899425" />
+  </component>
+</project>

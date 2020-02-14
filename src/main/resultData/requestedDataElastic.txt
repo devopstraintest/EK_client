@@ -1,0 +1,6 @@
+{
+  "found": false,
+  "_index": "random_index_java",
+  "_type": "_doc",
+  "_id": "testingEKrandom"
+}
