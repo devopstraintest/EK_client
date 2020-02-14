@@ -73,7 +73,7 @@ public class ElasticCaller {
     public void elasticDeleteData( boolean monitor, String name ){
 
         this.timer.start( "Method: deleteData" );
-        mainObject.deleteData( monitor, "" );
+        mainObject.deleteData( monitor, name );
         this.timer.stop();
 
     }
