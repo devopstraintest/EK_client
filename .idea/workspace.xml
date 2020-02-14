@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bd131c6-e752-475a-9989-b2d18d9e5d98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mainInput/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mainInput/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resultData/requestedDataElastic.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resultData/requestedDataElastic.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/connector/engine/ElasticSearchConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/connector/engine/ElasticSearchConnector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
