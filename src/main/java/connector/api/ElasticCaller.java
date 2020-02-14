@@ -21,29 +21,29 @@ public class ElasticCaller {
     }
 
 
-    public void elasticMapping( String gerritMapping ) {
+    public void elasticMapping( String Mapping ) {
 
         this.timer.start( "Method: createMapping" );
-        mainObject.createMapping( gerritMapping );
+        mainObject.createMapping( Mapping );
         this.timer.stop();
 
     }
 
 
-    public void elasticSend( String geritData, String docNameGerrit ) {
+    public void elasticSend( String Data, String docName ) {
 
         this.timer.start( "Method: callElastic" );
-        try ( BufferedReader br = new BufferedReader( new FileReader( geritData ) ) ) {
+        try ( BufferedReader br = new BufferedReader( new FileReader( Data ) ) ) {
             String line;
             int counter = 0;
             String localNameGerrit = "";
             System.out.println( "Sending data to ELASTICSEARCH..." );
             while ( ( line = br.readLine() ) != null ) {
-                if ( docNameGerrit.length() != 0 ) {
-                    localNameGerrit = docNameGerrit + "_"  + counter;
+                if ( docName.length() != 0 ) {
+                    localNameGerrit = docName + "_"  + counter;
                     counter++;
                 }
-                else localNameGerrit = docNameGerrit;
+                else localNameGerrit = docName;
                 mainObject.callElastic( line, localNameGerrit );
             }
         } catch ( IOException e ) {
